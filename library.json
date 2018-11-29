@@ -1,0 +1,14 @@
+{
+  "name": "arduino-base64",
+  "version": "0.1.0-SNAPSHOT",
+  "author": "Adam Rudd",
+  "maintainer" : "Mauricio Jost",
+  "keywords": "base64 encoding decoding",
+  "description": "Base 64 encoder decoder utility",
+  "repository": {
+    "type": "git",
+    "url": "git@bitbucket.org:mauriciojost/arduino-base64.git"
+  },
+  "frameworks": "arduino",
+  "platforms": "*"
+}
