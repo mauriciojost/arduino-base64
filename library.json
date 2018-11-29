@@ -1,6 +1,6 @@
 {
   "name": "arduino-base64",
-  "version": "0.2.0",
+  "version": "0.2.0-SNAPSHOT",
   "author": "Adam Rudd",
   "maintainer" : "Mauricio Jost",
   "keywords": "base64 encoding decoding",
